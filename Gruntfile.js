@@ -9,12 +9,13 @@ module.exports = function(grunt) {
         },
         libs: {
             options: {
-              destPrefix: 'public/js/vendor'
+              destPrefix: 'public/vendor'
             },
             files: {
               "jquery/jquery.min.js": "jquery/dist/jquery.min.js",
               "jquery/jquery.min.map": "jquery/dist/jquery.min.map",
               "requirejs/require.js": "requirejs/require.js",
+              "bootstrap": "bootstrap/dist"
             }
         }
     }

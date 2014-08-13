@@ -18,7 +18,8 @@
   ],
   "dependencies": {
     "jquery": "1.11.1",
-    "requirejs": "~2.1.14"
+    "requirejs": "~2.1.14",
+    "bootstrap": "~3.0.0"
   },
   "devDependencies": {
   }
