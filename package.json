@@ -1,0 +1,15 @@
+{
+  "name": "echo-js-test",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "morgan": "~1.0.0",
+    "body-parser": "~1.0.0",
+    "method-override": "~1.0.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bowercopy": "~1.1.0"
+  }
+}

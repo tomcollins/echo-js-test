@@ -1,0 +1,26 @@
+{
+  "name": "echi-js-test",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    "BBC Data & Analytics Team"
+  ],
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1",
+    "requirejs": "~2.1.14"
+  },
+  "devDependencies": {
+  }
+}
+
